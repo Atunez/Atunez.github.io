@@ -35,11 +35,32 @@ Wait for the installer to download the game.
 The game should open up automatically, but if not open up the game.
 
 ### Step 4:
-Create an account in the game.
+When prompted, create an account in the game.
 
 ## How to play
 
-Click the circles.
+To play Osu!, you first need to install beatmaps, then you can start clicking them!
+
+### Getting beatmaps
+
+To install a beatmap, first go to [this website](https://osu.ppy.sh/beatmapsets). You will need to sign in on the website before you can downaload any beatmap.
+
+It should look like this:
+![Capture1.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/Capture1.PNG?raw=true)
+
+You will be able to look up any song in the search bar. For example, when looking up the song "Zen Zen Zense," it should look like this:
+![Capture2.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/Capture2.PNG?raw=true)
+
+Clicking on the first beatmap, we get to this screen:
+![Capture3.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/Capture3.PNG?raw=true)
+
+You can then click on "Download," and then open the downloaded file. If the game is close, this will open the game and load the map in the game, otherwise it will just load it in the game.
+
+Note: Some beatmaps may have two different download options which would be "with video" or "without video". The download process is the same regardless, and the different may be seen in the game when playing the beatmap. 
+
+### Gameplay Mechanics
+
+
 
 ## FAQ
 
