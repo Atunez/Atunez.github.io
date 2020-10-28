@@ -15,6 +15,7 @@ This readme will only cover mechanics in osu!standard; however, many of these id
 - [FAQ](#FAQ)
 - [Support](#Support)
 - [Contribution](#Contribution)
+- [Licensing](#Licensing)
 
 Note: These hyperlinks may not work on the website version of this readme.
 
@@ -56,7 +57,7 @@ You will be able to look up any song in the search bar. For example, when lookin
 Clicking on the first beatmap, we get to this screen:
 ![Capture3.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/Capture3.PNG?raw=true)
 
-You can then click on "Download," and then open the downloaded file. If the game is close, this will open the game and load the map in the game, otherwise it will just load it in the game.
+You can then click on "Download," and then open the downloaded file. If the game is close, this will open the game and load the map in the game, otherwise it will just load it in the game. Beatmaps have the file type of .osu
 
 Note: Some beatmaps may have two different download options which would be "with video" or "without video". The download process is the same regardless, and the different may be seen in the game when playing the beatmap. 
 
@@ -95,15 +96,48 @@ Here is how a spinner hit object would look in the game:
 Unlike the circles and sliders, for sliders you only need to click and then spin with your cursor.
 
 
-For more details, you can follow the in-game tutorial.
+For more details, you can follow the in-game tutorial beatmap.
 
 ## FAQ
 
-Honestly, Idk.
+### Question: How is difficulty calculated?
+
+Difficulty depends on many factors. However, the main factors include Approach rate, circle size, HP drain, amount of objects and the speed of the beatmap.
+
+### Question: How is scoring calculated?
+
+Score in the game depends on accuracy and combo.
+
+Accuracy is how late or early you hit an object, with you hitting it closer to the actual time giving you more points than not.
+
+Combo is how many objects you have hit consecutivly, with higher combo giving you more score since it acts as a multiplier.
+
+When the game is played on Score V2, the score is capped at one million or less, regardless of accuracy or combo.
+
+### Question: Why am I seeings white lines when playing?
+
+You may see white lines when you press C, these lines are smoke and are just a visiual thing.
+
+### Question: Is it possible to change skins?
+
+Yes!
+
+You can download a skin from the internet, then load in the game by clicking on the file that is download, and then selecting that skin in the settings.
+
+Note: skins have the file type of .osz
 
 ## Support
 
-GL.
+If you need help regarding other topics of the game and the mechanics, you can check out [this wiki](https://osu.ppy.sh/help/wiki/Main_Page).
+
+If you need help regarding things outside of game, you can check out [this website](https://osu.ppy.sh/help/wiki/Help_Centre).
 
 ## Contribution
 
+Unfortunatly, you can't contribute to the game itself. However, you can contribute to the game's wiki. 
+
+For more information about that, check [this page](https://osu.ppy.sh/help/wiki/osu%21_wiki_Contribution_Guide).
+
+## Licensing
+
+For information about licensing, whether it be about music or policy or something different, you can check [this out](https://osu.ppy.sh/help/wiki/Legal).
