@@ -10,10 +10,10 @@ This readme will only cover mechanics in osu!standard; however, many of these id
 
 ## Table of contents
 
-- [Installation](#heading)
-- [How to play](#heading-1)
-- [FAQ](#heading-2)
-- [Support](#heading-3)
+- [Installation](#Installation)
+- [How to play](#How to play)
+- [FAQ](#FAQ)
+- [Support](#Support)
 
 <!-- toc -->
 
