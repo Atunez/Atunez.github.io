@@ -14,12 +14,28 @@ This readme will only cover mechanics in osu!standard; however, many of these id
 - [How to play](#How-to-play)
 - [FAQ](#FAQ)
 - [Support](#Support)
+- [Contribution](#Contribution)
 
 <!-- toc -->
 
 ## Installation
 
-Just download the game lol
+### Step 1:
+Go to [this website](https://osu.ppy.sh/home/download) to download the launcher.
+
+The website should look like this:
+![Capture.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/Capture.PNG?raw=true)
+
+### Step 2:
+Click on the .exe file that was downloaded.
+
+### Step 3:
+Wait for the installer to download the game.
+
+The game should open up automatically, but if not open up the game.
+
+### Step 4:
+Create an account in the game.
 
 ## How to play
 
@@ -32,4 +48,6 @@ Honestly, Idk.
 ## Support
 
 GL.
+
+## Contribution
 
