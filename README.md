@@ -11,7 +11,7 @@ This readme will only cover mechanics in osu!standard; however, many of these id
 ## Table of contents
 
 - [Installation](#Installation)
-- [How to play](#How to play)
+- [How to play](#How-to-play)
 - [FAQ](#FAQ)
 - [Support](#Support)
 
