@@ -6,7 +6,7 @@ With each gamemode including different mechanics and scoring systems, as well as
 
 This readme will only cover mechanics in osu!standard; however, many of these ideas still apply in other game modes. 
 
-![popular-free-rhythm-game-osu-now-provides-a-linux-build-with-releases.jpg](https://github.com/Atunez/Atunez.github.io/blob/main/popular-free-rhythm-game-osu-now-provides-a-linux-build-with-releases.jpg?raw=true)
+![popular-free-rhythm-game-osu-now-provides-a-linux-build-with-releases.jpg](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/popular-free-rhythm-game-osu-now-provides-a-linux-build-with-releases.jpg?raw=true)
 
 ## Table of contents
 
@@ -16,6 +16,8 @@ This readme will only cover mechanics in osu!standard; however, many of these id
 - [Support](#Support)
 - [Contribution](#Contribution)
 
+Note: These hyperlinks may not work on the website version of this readme.
+
 <!-- toc -->
 
 ## Installation
@@ -24,7 +26,7 @@ This readme will only cover mechanics in osu!standard; however, many of these id
 Go to [this website](https://osu.ppy.sh/home/download) to download the launcher.
 
 The website should look like this:
-![Capture.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/Capture.PNG?raw=true)
+![Capture.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/Capture.PNG?raw=true)
 
 ### Step 2:
 Click on the .exe file that was downloaded.
@@ -46,13 +48,13 @@ To play Osu!, you first need to install beatmaps, then you can start clicking th
 To install a beatmap, first go to [this website](https://osu.ppy.sh/beatmapsets). You will need to sign in on the website before you can downaload any beatmap.
 
 It should look like this:
-![Capture1.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/Capture1.PNG?raw=true)
+![Capture1.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/Capture1.PNG?raw=true)
 
 You will be able to look up any song in the search bar. For example, when looking up the song "Zen Zen Zense," it should look like this:
-![Capture2.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/Capture2.PNG?raw=true)
+![Capture2.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/Capture2.PNG?raw=true)
 
 Clicking on the first beatmap, we get to this screen:
-![Capture3.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/Capture3.PNG?raw=true)
+![Capture3.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/Capture3.PNG?raw=true)
 
 You can then click on "Download," and then open the downloaded file. If the game is close, this will open the game and load the map in the game, otherwise it will just load it in the game.
 
@@ -72,7 +74,7 @@ The game has 3 different objects: circles, sliders, and spinners.
 
 Here is how a circle hit object would look in the game:
 
-![Capture4.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/Capture4.PNG?raw=true)
+![Capture4.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/Capture4.PNG?raw=true)
 
 When the outter circle overlaps with the white edge of the inner circle, that is when you should click on the circle.
 
@@ -80,7 +82,7 @@ When the outter circle overlaps with the white edge of the inner circle, that is
 
 Here is how a slider object would look in the game:
 
-![Capture5.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/Capture5.PNG?raw=true)
+![Capture5.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/Capture5.PNG?raw=true)
 
 Similar to the circle hit objects, when the outter circle overlaps with the white edge of the inner circle, that is when you should click on the sliderhead (the side that had a number).
 
@@ -88,7 +90,7 @@ Similar to the circle hit objects, when the outter circle overlaps with the whit
 
 Here is how a spinner hit object would look in the game:
 
-![Capture6.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/Capture6.PNG?raw=true)
+![Capture6.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/Capture6.PNG?raw=true)
 
 Unlike the circles and sliders, for sliders you only need to click and then spin with your cursor.
 
