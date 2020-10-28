@@ -60,7 +60,40 @@ Note: Some beatmaps may have two different download options which would be "with
 
 ### Gameplay Mechanics
 
+When selecting a beatmap, and opening it you will see your cursor, alongside different game objects.
 
+You can move your cursor with your mouse, and you can hit objects with either mouse buttons, or with the keyboard using Z and X. 
+
+Note: the keyboard binds can be change in the in-game settings.
+
+The game has 3 different objects: circles, sliders, and spinners.
+
+#### Circles
+
+Here is how a circle hit object would look in the game:
+
+![Capture4.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/Capture4.PNG?raw=true)
+
+When the outter circle overlaps with the white edge of the inner circle, that is when you should click on the circle.
+
+#### Sliders
+
+Here is how a slider object would look in the game:
+
+![Capture5.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/Capture5.PNG?raw=true)
+
+Similar to the circle hit objects, when the outter circle overlaps with the white edge of the inner circle, that is when you should click on the sliderhead (the side that had a number).
+
+#### Spinners
+
+Here is how a spinner hit object would look in the game:
+
+![Capture6.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/Capture6.PNG?raw=true)
+
+Unlike the circles and sliders, for sliders you only need to click and then spin with your cursor.
+
+
+For more details, you can follow the in-game tutorial.
 
 ## FAQ
 
