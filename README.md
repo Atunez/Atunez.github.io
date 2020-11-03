@@ -12,7 +12,7 @@ Note: These hyperlinks may not work on the website version of this readme.
 
 <!-- toc -->
 # Osu!
-## What is Osu? <a name="Introduction"><\a>
+## What is Osu? <a name="Introduction"></a>
 
 Osu! is a free-to-play rhythm game, where you have to click the circles to the beat. The game features multiple modes including: osu!standard, osu!taiko, osu!catch, and osu!mania. 
 With each gamemode including different mechanics and scoring systems, as well as many different game-changing mods and multiplayer!
@@ -21,7 +21,7 @@ This readme will only cover mechanics in osu!standard; however, many of these id
 
 ![popular-free-rhythm-game-osu-now-provides-a-linux-build-with-releases.jpg](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/popular-free-rhythm-game-osu-now-provides-a-linux-build-with-releases.jpg?raw=true)
 
-## Installation <a name="Installation"><\a>
+## Installation <a name="Installation"></a>
 
 ### Step 1:
 Go to [this website](https://osu.ppy.sh/home/download) to download the launcher.
@@ -40,7 +40,7 @@ The game should open up automatically, but if not open up the game.
 ### Step 4:
 When prompted, create an account in the game.
 
-## How to play <a name="How-to-play"><\a>
+## How to play <a name="How-to-play"></a>
 
 To play Osu!, you first need to install beatmaps, then you can start clicking them!
 
@@ -98,7 +98,7 @@ Unlike the circles and sliders, for sliders you only need to click and then spin
 
 For more details, you can follow the in-game tutorial beatmap.
 
-## FAQ <a name="FAQ"><\a>
+## FAQ <a name="FAQ"></a>
 
 ### Question: How is difficulty calculated?
 
@@ -126,13 +126,13 @@ You can download a skin from the internet, then load in the game by clicking on 
 
 Note: skins have the file type of .osz
 
-## Support <a name="Support"><\a>
+## Support <a name="Support"></a>
 
 If you need help regarding other topics of the game and the mechanics, you can check out [this wiki](https://osu.ppy.sh/help/wiki/Main_Page).
 
 If you need help regarding things outside of game, you can check out [this website](https://osu.ppy.sh/help/wiki/Help_Centre).
 
-## Contribution <a name="Contribution"><\a>
+## Contribution <a name="Contribution"></a>
 
 Unfortunatly, you can't contribute to the game itself. However, you can contribute to the game's wiki. 
 
