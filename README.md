@@ -58,6 +58,7 @@ To install a beatmap, first go to [this website](https://osu.ppy.sh/beatmapsets)
 look up any song you want to download in the search bar. 
 
 For example, when looking up the song "Zen Zen Zense," and clicking on the first beatmap, we get to this screen:
+
 ![Capture3.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/Capture3.PNG?raw=true)
 
 You can then click on "Download." 
@@ -169,6 +170,6 @@ For more information about that, check [this page](https://osu.ppy.sh/help/wiki/
 
 <br>
 
-## Licensing <a name="Licensing"><\a>
+## Licensing <a name="Licensing"></a>
 
 For information about licensing, whether it be about music or policy or something different, you can check [this out](https://osu.ppy.sh/help/wiki/Legal).
