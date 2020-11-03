@@ -1,6 +1,7 @@
 ## Table of contents
 
 - [Introduction](#Introduction)
+- [Requirements](#Requirements)
 - [Installation](#Installation)
 - [How to play](#How-to-play)
 - [FAQ](#FAQ)
@@ -21,13 +22,16 @@ This readme will only cover mechanics in osu!standard; however, many of these id
 
 ![popular-free-rhythm-game-osu-now-provides-a-linux-build-with-releases.jpg](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/popular-free-rhythm-game-osu-now-provides-a-linux-build-with-releases.jpg?raw=true)
 
+## Requirements <a name="Requirements"></a>
+
+- Osu! requires .NET framework 4+.
+- There are no real hardware requirements to run Osu! However, a graphics card would help.
+
+
 ## Installation <a name="Installation"></a>
 
 ### Step 1:
 Go to [this website](https://osu.ppy.sh/home/download) to download the launcher.
-
-The website should look like this:
-![Capture.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/Capture.PNG?raw=true)
 
 ### Step 2:
 Click on the .exe file that was downloaded.
@@ -35,9 +39,10 @@ Click on the .exe file that was downloaded.
 ### Step 3:
 Wait for the installer to download the game.
 
-The game should open up automatically, but if not open up the game.
-
 ### Step 4:
+Open the game. 
+
+### Step 5:
 When prompted, create an account in the game.
 
 ## How to play <a name="How-to-play"></a>
@@ -46,20 +51,22 @@ To play Osu!, you first need to install beatmaps, then you can start clicking th
 
 ### Getting beatmaps
 
-To install a beatmap, first go to [this website](https://osu.ppy.sh/beatmapsets). You will need to sign in on the website before you can downaload any beatmap.
+To install a beatmap, first go to [this website](https://osu.ppy.sh/beatmapsets). 
 
-It should look like this:
-![Capture1.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/Capture1.PNG?raw=true)
+**You will need to sign in on the website before you can downaload any beatmap.**
 
-You will be able to look up any song in the search bar. For example, when looking up the song "Zen Zen Zense," it should look like this:
-![Capture2.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/Capture2.PNG?raw=true)
-
-Clicking on the first beatmap, we get to this screen:
+You will be able to look up any song in the search bar. For example, when looking up the song "Zen Zen Zense," and clicking on the first beatmap, we get to this screen:
 ![Capture3.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/Capture3.PNG?raw=true)
 
-You can then click on "Download," and then open the downloaded file. If the game is close, this will open the game and load the map in the game, otherwise it will just load it in the game. Beatmaps have the file type of .osu
+You can then click on "Download." 
 
-Note: Some beatmaps may have two different download options which would be "with video" or "without video". The download process is the same regardless, and the different may be seen in the game when playing the beatmap. 
+Then open the downloaded file. 
+
+If the game is closed, this will open the game and load the map in the game, otherwise it will just load it in the game. 
+
+Beatmaps have the file type of .osu
+
+*Note: Some beatmaps may have two different download options which would be "with video" or "without video". The download process is the same regardless, and the different may be seen in the game when playing the beatmap.*
 
 ### Gameplay Mechanics
 
