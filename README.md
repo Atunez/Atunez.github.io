@@ -9,8 +9,6 @@
 - [Contribution](#Contribution)
 - [Licensing](#Licensing)
 
-Note: These hyperlinks may not work on the website version of this readme.
-
 <!-- toc -->
 # Osu!
 ## What is Osu? <a name="Introduction"></a>
@@ -45,6 +43,8 @@ Open the game.
 ### Step 5:
 When prompted, create an account in the game.
 
+<br>
+
 ## How to play <a name="How-to-play"></a>
 
 To play Osu!, you first need to install beatmaps, then you can start clicking them!
@@ -55,7 +55,9 @@ To install a beatmap, first go to [this website](https://osu.ppy.sh/beatmapsets)
 
 **You will need to sign in on the website before you can downaload any beatmap.**
 
-You will be able to look up any song in the search bar. For example, when looking up the song "Zen Zen Zense," and clicking on the first beatmap, we get to this screen:
+look up any song you want to download in the search bar. 
+
+For example, when looking up the song "Zen Zen Zense," and clicking on the first beatmap, we get to this screen:
 ![Capture3.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/Capture3.PNG?raw=true)
 
 You can then click on "Download." 
@@ -68,42 +70,58 @@ Beatmaps have the file type of .osu
 
 *Note: Some beatmaps may have two different download options which would be "with video" or "without video". The download process is the same regardless, and the different may be seen in the game when playing the beatmap.*
 
+<br>
+
 ### Gameplay Mechanics
 
 When selecting a beatmap, and opening it you will see your cursor, alongside different game objects.
 
 You can move your cursor with your mouse, and you can hit objects with either mouse buttons, or with the keyboard using Z and X. 
 
-Note: the keyboard binds can be change in the in-game settings.
+*Note: the keyboard binds can be change in the in-game settings.*
 
 The game has 3 different objects: circles, sliders, and spinners.
 
+
 #### Circles
 
-Here is how a circle hit object would look in the game:
+
+This is how a circle hit object would look in the game:
+
 
 ![Capture4.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/Capture4.PNG?raw=true)
 
+
 When the outter circle overlaps with the white edge of the inner circle, that is when you should click on the circle.
+
 
 #### Sliders
 
-Here is how a slider object would look in the game:
+
+This is how a slider object would look in the game:
+
 
 ![Capture5.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/Capture5.PNG?raw=true)
 
+
 Similar to the circle hit objects, when the outter circle overlaps with the white edge of the inner circle, that is when you should click on the sliderhead (the side that had a number).
+
 
 #### Spinners
 
-Here is how a spinner hit object would look in the game:
+
+This is how a spinner hit object would look in the game:
+
 
 ![Capture6.PNG](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/Capture6.PNG?raw=true)
+
 
 Unlike the circles and sliders, for sliders you only need to click and then spin with your cursor.
 
 
 For more details, you can follow the in-game tutorial beatmap.
+
+<br>
 
 ## FAQ <a name="FAQ"></a>
 
@@ -131,7 +149,9 @@ Yes!
 
 You can download a skin from the internet, then load in the game by clicking on the file that is download, and then selecting that skin in the settings.
 
-Note: skins have the file type of .osz
+*Note: skins have the file type of .osz*
+
+<br>
 
 ## Support <a name="Support"></a>
 
@@ -139,11 +159,15 @@ If you need help regarding other topics of the game and the mechanics, you can c
 
 If you need help regarding things outside of game, you can check out [this website](https://osu.ppy.sh/help/wiki/Help_Centre).
 
+<br>
+
 ## Contribution <a name="Contribution"></a>
 
 Unfortunatly, you can't contribute to the game itself. However, you can contribute to the game's wiki. 
 
 For more information about that, check [this page](https://osu.ppy.sh/help/wiki/osu%21_wiki_Contribution_Guide).
+
+<br>
 
 ## Licensing <a name="Licensing"><\a>
 
