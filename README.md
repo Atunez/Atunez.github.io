@@ -20,11 +20,14 @@ This readme will only cover mechanics in osu!standard; however, many of these id
 
 ![popular-free-rhythm-game-osu-now-provides-a-linux-build-with-releases.jpg](https://github.com/Atunez/Atunez.github.io/blob/main/pictures/popular-free-rhythm-game-osu-now-provides-a-linux-build-with-releases.jpg?raw=true)
 
+<br>
+
 ## Requirements <a name="Requirements"></a>
 
 - Osu! requires .NET framework 4+.
 - There are no real hardware requirements to run Osu! However, a graphics card would help.
 
+<br>
 
 ## Installation <a name="Installation"></a>
 
